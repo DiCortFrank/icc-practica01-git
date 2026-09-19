@@ -1,9 +1,12 @@
 # icc-practica01-git
 Repositorio para la primera practica de cc
-# Hola
-Soy estudiante de la Facultad de Ciencias.
+# Presentacion
+
+Somos estudiante de la Facultad de Ciencias.
+
 ## Actualmente
-- Trabajo en jugar todas las noches
+- Trabajo en estudiar  todas las noches
+
 **Preguntas Iniciales
 **¿Qué información almacena un commit?
 Un Commit registra una version del proyecto e incluye los cambios realizados, el nombre y el correo.
@@ -19,4 +22,12 @@ nano, git push, git pull, git status, git dif. git commit
 Solo el Developer Bharia commit porque es el unico que va a escribir en el trabajo colaborativo.
 El push lo hace el Developer B porque tiene que pasar los cambios al developer A
 El pull lo hace el Developer A para que pueda ver los cambios que hizo el Developer B
+
+## Historial esperado
+
+D---E <-- binario
+\
+A---B---C <- main 
+\
+F---G <-- decimal
 
