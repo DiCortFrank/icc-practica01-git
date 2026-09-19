@@ -15,3 +15,8 @@ Pues ambos podemos modificar pero solo podremos ver los cambios que hizo el otro
 Se sobreescribira y se guardaran ambas
 ## Comandos observados
 nano, git push, git pull, git status, git dif. git commit
+## Planeacion
+Solo el Developer Bharia commit porque es el unico que va a escribir en el trabajo colaborativo.
+El push lo hace el Developer B porque tiene que pasar los cambios al developer A
+El pull lo hace el Developer A para que pueda ver los cambios que hizo el Developer B
+
