@@ -13,3 +13,5 @@ El repositorio local guarda los cambios antes de hacer un pull mientras que el r
 Pues ambos podemos modificar pero solo podremos ver los cambios que hizo el otro cuando este en el repositorio remoto
 **¿Qué esperan que ocurra cuando ambos modifican exactamente la misma linea?
 Se sobreescribira y se guardaran ambas
+## Comandos observados
+nano, git push, git pull, git status, git dif. git commit
