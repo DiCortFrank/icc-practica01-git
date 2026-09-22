@@ -12,8 +12,12 @@ El numero 69 en decimal se escribe como :
 
 69
 
+
 ##Descripcion
 
 El sistema decimal utiliza 10 simbolos diferentes
+
+## Descripción
+El sistema decimal es un sistema posicional de base diez
 
 

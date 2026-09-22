@@ -56,3 +56,12 @@ Git descarto los cambios del remoto y los integro con los cambios locales
 
 No. En este ejercicio Git pudo integrar automaticamente los cambios porque cada rama modifico un archivo distinto que serian decimal y binario.
 
+## Conflicto
+¿Que representa HEAD en este momento?
+Donde esta o comienza el conflicto
+¿Que representa el contenido entre «««< y =======?
+El <<< indica donde inicia todo lo que modificamos y provoco el conflicto y el === separa la modificacion que cada uno hizo
+¿Que representa el contenido entre ======= y »»»>?
+El >>> indica donde terminan las modificaciones y el ===== aepara las modificaciones que cada uno hizo
+¿Por que Git no pudo decidir automáticamente que contenido conservar?
+Porque no habia una jerarquia de cual era mas importante para conservar
