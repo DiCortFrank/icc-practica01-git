@@ -50,3 +50,9 @@ Git descarto los cambios del remoto y los integro con los cambios locales
  ¿Qué diferencia observan entre un push rechazado y un conflicto?
  Un push rechazado no permite subir los commits, ya que le faltaba integrar cambios en el remoto, el conflicto creemos que es por que git necesita decidir cual cambio queremos.
 
+##Pregunta
+
+¿Realizar un merge implica necesariamente que exista un conflicto?
+
+No. En este ejercicio Git pudo integrar automaticamente los cambios porque cada rama modifico un archivo distinto que serian decimal y binario.
+
