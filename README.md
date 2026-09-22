@@ -36,3 +36,17 @@ A---B---C <- main
 \
 F---G <-- decimal
 
+## Rechazo de git
+
+¿Por qué Git rechazo el primer push de Developer B?
+ Por no estar en la rama principal , tambien se podria decir que el devolver b no esta actualizado
+
+ ¿Existía un conflicto de contenido?
+No, por que modificamos archivos distintos
+ 
+¿Qué ocurrió cuando ejecutaron pull?
+Git descarto los cambios del remoto y los integro con los cambios locales
+
+ ¿Qué diferencia observan entre un push rechazado y un conflicto?
+ Un push rechazado no permite subir los commits, ya que le faltaba integrar cambios en el remoto, el conflicto creemos que es por que git necesita decidir cual cambio queremos.
+
